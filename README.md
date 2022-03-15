@@ -20,3 +20,5 @@ When filtering this to separate the reviews that are paid from those unpaid, we 
 ## Conclusion
 
 According to the analysis perform we cannot conclude that any bias exist on the paid reviewers, since the percentage of 5-star articles on paid and unpaid reviewers are almost the same. Having said this, we are not in the position of saying that the bias do not exist since the amount of articles that form part of the vine program is fairly reduce and therefore any minor change in the rating could change the percentage of the vine program on a material way.
+
+In order to finally determine the bias on the vine program a similar analysis but on a bigger vine database is recommended. 
